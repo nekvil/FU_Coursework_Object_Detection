@@ -1,0 +1,12 @@
+config.ini
+
+dataset_construct/COCO2020_15.yolov5_by_fiftyone
+dataset_construct/Face_Detection.v18-yolov8.yolov8
+dataset_construct/Fall_Detection.v4-resized640_aug3x-accurate.yolov8
+dataset_construct/RoboGardenVision_remapped_aug_on_640x640.yolov8
+dataset_construct/Smoke100.v4-640x640-m-h-l.yolov8
+
+runs/detect/train/events.out.tfevents.1683596159.DESKTOP-CFPEFM6.11268.0
+runs/detect_12/train/events.out.tfevents.1683332801.DESKTOP-CFPEFM6.3880.0
+runs/detect_ext_v5/train/events.out.tfevents.1683556162.DESKTOP-CFPEFM6.12356.0
+runs/detect_v6/train/events.out.tfevents.1683317752.DESKTOP-CFPEFM6.12268.0

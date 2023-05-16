@@ -1,0 +1,15 @@
+person
+dog
+horse
+bird
+cat
+bear
+sheep
+cow
+apple_green
+apple_mechanic
+apple_parsha
+apple_red
+face
+Fall-Detected
+smoke

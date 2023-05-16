@@ -1,0 +1,4 @@
+Delete damaged 000000018194.jpg/txt from COCO2017! 
+Your train split should have 105061 files!
+
+Convert 000000320612.jpg(PNG) to JPEG!
