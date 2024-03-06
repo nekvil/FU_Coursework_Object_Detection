@@ -9,3 +9,5 @@ README.zh-CN.md
 setup.cfg
 requirements.txt
 runs/train/exp/events.out.tfevents.1683724637.DESKTOP-CFPEFM6.1168.0
+runs/detect/exp2
+__pycache__

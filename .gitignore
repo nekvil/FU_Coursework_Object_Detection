@@ -10,3 +10,6 @@ runs/detect/train/events.out.tfevents.1683596159.DESKTOP-CFPEFM6.11268.0
 runs/detect_12/train/events.out.tfevents.1683332801.DESKTOP-CFPEFM6.3880.0
 runs/detect_ext_v5/train/events.out.tfevents.1683556162.DESKTOP-CFPEFM6.12356.0
 runs/detect_v6/train/events.out.tfevents.1683317752.DESKTOP-CFPEFM6.12268.0
+
+runs/detect/predict2/4.mp4
+efficientdet_lite0/efficientdet-lite0_int8/detect/predict/video_2023-05-17_04-28-20.mp4
